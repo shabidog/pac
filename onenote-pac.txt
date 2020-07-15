@@ -4,4 +4,6 @@
 ! OneNote Start
 .officeapps.live.com
 .docs.live.net
+.d.docs.live.net
+.ocws.officeapps.live.com
 ! OneNote End
