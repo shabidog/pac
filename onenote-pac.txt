@@ -6,4 +6,5 @@
 .docs.live.net
 .d.docs.live.net
 .ocws.officeapps.live.com
+.mobile.pipe.aria.microsoft.com
 ! OneNote End
