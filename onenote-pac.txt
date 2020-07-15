@@ -2,9 +2,7 @@
 ! See https://adblockplus.org/en/filter-cheatsheet
 
 ! OneNote Start
-.officeapps.live.com
-.docs.live.net
-.d.docs.live.net
-.ocws.officeapps.live.com
-.mobile.pipe.aria.microsoft.com
+||officeapps.live.com
+||docs.live.net
+||mobile.pipe.aria.microsoft.com
 ! OneNote End
